@@ -13,11 +13,11 @@ data = pd.read_csv('Case 2 Data 2024.csv', index_col = 0, skiprows = 1)
 We recommend that you change your train and test split
 '''
 
-TRAIN, TEST = train_test_split(data, test_size = 0.2, shuffle = False)
+TRAIN, TEST = train_test_split(data, test_size = 0.5, shuffle = True)
 
 
 
-class Allocator:
+class Allocator():
     #  new new
 
 
