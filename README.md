@@ -1,4 +1,4 @@
-# Uchicago-2024
+# University of Michigan @ Uchicago 2024
 
 
 # --Case 2 Portfolio Optimization Trading Bot--
